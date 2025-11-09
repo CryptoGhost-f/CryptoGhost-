@@ -6,7 +6,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 - 🔍 Malware analyst in training  
 - 🇵🇰 Based in Pakistan  
 - 🧠 Learning: Reverse Engineering | Threat Intel | DFIR  
-- 📫 Contact: cryptoghost@proton.me (PGP key soon)  
+- 📫 Contact: cryptoghost-f@proton.me (PGP key soon)  
 
 ## 🎯 2025 Goals
 - [ ] Solve 50 TryHackMe rooms  
