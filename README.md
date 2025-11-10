@@ -29,7 +29,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
   <a href="mailto:cryptoghost-f@proton.me"> cryptoghost-f@proton.me</a> ·
   <a href="https://twitter.com/CryptoGhost_PK"> @CryptoGhost</a> ·
   <a href="https://github.com/CryptoGhost-f"> GitHub</a>
-  <a href="https://discord.com/CryptoGhost">
+  <a href="https://discord.com/hunterxix3028">
 Discord</a>
   </p>
 >
