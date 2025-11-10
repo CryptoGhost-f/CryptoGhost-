@@ -30,5 +30,6 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
   <a href="https://twitter.com/CryptoGhost_PK"> 
     X</a> ·
   <a href="https://linkedin.com/in/CryptoGhost-f">
-LinkedIn</a>
-  </p>
+LinkedIn</a> .
+  <a href="https://www.instagram.com/cryptoghost_pk">Instagram</a>
+</p>
