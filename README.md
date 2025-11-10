@@ -8,7 +8,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 - 🧠 Learning: Reverse Engineering | Threat Intel | DFIR  
 - 📫 Contact: cryptoghost-f@proton.me (PGP key soon)  
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 - [ ] Solve 50 TryHackMe rooms  
 - [ ] Write 12 technical blogs  
 - [ ] Earn first bug-bounty $$  
