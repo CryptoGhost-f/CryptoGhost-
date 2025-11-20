@@ -22,7 +22,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 
 <h1 align="center">CryptoGhost 👻🔒</h1>
 <p align="center">
-  <em>Ghost in the Pakistani machine</em>
+  <em>Pakistani Ghost in the machine</em>
 </p>
 
 <p align="center">
