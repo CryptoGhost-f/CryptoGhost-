@@ -11,7 +11,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 ## 🎯 2026 Goals
 - [ ] Solve 50 TryHackMe rooms  
 - [ ] Write 12 technical blogs  
-- [ ] [ Earn first bug-bounty $$ ]  
+- [ ] Earn first bug-bounty $$
 
 
 
